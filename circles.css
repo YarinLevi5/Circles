@@ -1,0 +1,16 @@
+.wrapper {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-direction: column-reverse;
+}
+
+.circle {
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 50%;
+    font-size: 18px;
+    padding: 20px;
+}
